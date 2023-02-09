@@ -1,0 +1,58 @@
+#regiter-field{
+    width: 700px;
+    height: 760px;
+  background-color:#f9f5e7 ;
+  box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+  border-radius: 10px;
+  margin:0 auto;
+  margin-bottom: 150px;
+}
+
+@media screen and (max-width:575px) {
+    #regiter-field{
+        width: 95%;
+        height: 640px;
+      background-color:#f9f5e7 ;
+      box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+      border-radius: 10px;
+      margin:0 auto;
+    }
+
+    #form-register button{
+        width: 270px !important;
+        background-color: #0887b1;
+         height: 50px;
+          margin:0 auto !important;
+          margin-left: 20px;
+          margin-top:20px !important;
+         font-size: 20px;
+
+        }
+
+        input{
+            height: 50px !important;
+            font-size: 20px !important;
+        }
+
+        #input-title{
+            font-size: 17px;
+        }
+
+}
+
+
+#form-register button{
+width: 300px;
+background-color: #0887b1;
+ height: 50px;
+ margin-left: 20%;
+ margin-top: 20px !important;
+ font-size: 25px;
+
+}
+
+#form-register button:hover{
+    background-color: black;
+    color:white;
+}
+   

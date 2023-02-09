@@ -1,0 +1,164 @@
+[
+    {
+        "Cetagory": "Single Room",
+        "img": "https://img.freepik.com/free-photo/comfort-pillow-bed-decoration-interior_74190-6251.jpg?w=1380&t=st=1675315827~exp=1675316427~hmac=a1586f6cbe7aabaf597ffa2491042ef13081007c4557afe24258a63d8fc39e13",
+        "capacity": "1",
+        "badroom": "1",
+        "bathroom": "1",
+        "kitchen": "Unavailable",
+        "price": "50"
+    },
+    {
+        "Cetagory": "Single Room",
+        "img": "https://img.freepik.com/premium-photo/hotel-room_600776-34573.jpg?w=1380",
+        "capacity": "1",
+        "badroom": "1",
+        "bathroom": "1",
+        "kitchen": "Unavailable",
+        "price": "65"
+    },
+    {
+        "Cetagory": "Single Room",
+        "img": "https://img.freepik.com/premium-photo/hotel-room_600776-34573.jpg?w=1380",
+        "capacity": "2",
+        "badroom": "1",
+        "bathroom": "1",
+        "kitchen": "available",
+        "price": "80"
+    },
+    {
+        "Cetagory": "Single Room",
+        "img": "https://img.freepik.com/free-photo/bed-pillow-bedroom_74190-1772.jpg?t=st=1675316301~exp=1675316901~hmac=d7a71383ab438f487ccde48d1ec00af8a067a27072889f6978229f8f16239b15",
+        "capacity": "2",
+        "badroom": "1",
+        "bathroom": "1",
+        "kitchen": "available",
+        "price": "82"
+    },
+    {
+        "Cetagory": "Single Room",
+        "img": "https://img.freepik.com/free-photo/pillow-bed-with-blanket-decoration-interior_74190-11513.jpg?t=st=1675316375~exp=1675316975~hmac=b2cb083f0d6b22e7a6f22a271508d1b39f6e35265fa5fe3edb628e97495fa3c1",
+        "capacity": "1",
+        "badroom": "1",
+        "bathroom": "1",
+        "kitchen": "Unavailable",
+        "price": "77"
+    },
+    {
+        "Cetagory": "Single Room",
+        "img": "https://img.freepik.com/free-photo/white-comfortable-pillow-blanket-bed-with-light-lamp_74190-12048.jpg",
+        "capacity": "2",
+        "badroom": "1",
+        "bathroom": "1",
+        "kitchen": "Unavailable",
+        "price": "65"
+    },
+    {
+        "Cetagory": "Single Room",
+        "img": "https://img.freepik.com/free-photo/white-comfortable-pillow-blanket-bed-with-light-lamp_74190-12052.jpg?t=st=1675316301~exp=1675316901~hmac=dbde467906f4a905229ce9cd818c90e4145f06a03f7eb7bb98940e742187446d",
+        "capacity": "2",
+        "badroom": "1",
+        "bathroom": "1",
+        "kitchen": "available",
+        "price": "79"
+    },
+    {
+        "Cetagory": "Double Room",
+        "img": "https://as1.ftcdn.net/v2/jpg/05/61/84/92/1000_F_561849244_kbqmvlv7oA4R9Ptt7f68rmpgL98s1dAI.jpg",
+        "capacity": "3",
+        "badroom": "2",
+        "bathroom": "1",
+        "kitchen": "available",
+        "price": "110"
+    },
+    {
+        "Cetagory": "Double Room",
+        "img": "https://as1.ftcdn.net/v2/jpg/05/63/29/92/1000_F_563299235_rot8kBGnJPQYH9ZB6octPLpVgelGGW2b.jpg",
+        "capacity": "3",
+        "badroom": "2",
+        "bathroom": "1",
+        "kitchen": "available",
+        "price": "117"
+    },
+    {
+        "Cetagory": "Double Room",
+        "img": "https://as2.ftcdn.net/v2/jpg/00/68/55/87/1000_F_68558789_Vd0Y7d73PgdZmKbuYWyp1Q4w1cxKGI8b.jpg",
+        "capacity": "4",
+        "badroom": "2",
+        "bathroom": "1",
+        "kitchen": "Unavailable",
+        "price": "130"
+    },
+    {
+        "Cetagory": "Double Room",
+        "img": "https://as1.ftcdn.net/v2/jpg/04/16/48/08/1000_F_416480811_HmtgLEq1GLmqy0WpKuAfuaYFn7u08IyF.jpg ",
+        "capacity": "3",
+        "badroom": "2",
+        "bathroom": "1",
+        "kitchen": "available",
+        "price": "120"
+    },
+    {
+        "Cetagory": "Double Room",
+        "img": "https://as2.ftcdn.net/v2/jpg/04/93/49/95/1000_F_493499543_LcJwGTjkP8qLn2Ju4BS35LhxfvEw5shB.jpg",
+        "capacity": "2",
+        "badroom": "1",
+        "bathroom": "1",
+        "kitchen": "available",
+        "price": "120"
+    },
+    {
+        "Cetagory": "Double Room",
+        "img": "https://as1.ftcdn.net/v2/jpg/03/59/53/96/1000_F_359539619_izbEfhEs1LQ4YSbfwtEoGSaNHt4P1BqZ.jpg",
+        "capacity": "4",
+        "badroom": "2",
+        "bathroom": "1",
+        "kitchen": "available",
+        "price": "150"
+    },
+    {
+        "Cetagory": "Family Room",
+        "img": "https://as2.ftcdn.net/v2/jpg/03/18/73/23/1000_F_318732397_WZWLegoNLBQ7YrDHVD4vhGjhp7LaBhGX.jpg",
+        "capacity": "4",
+        "badroom": "2",
+        "bathroom": "1",
+        "kitchen": "available",
+        "price": "140"
+    },
+    {
+        "Cetagory": "Family Room",
+        "img": "https://as2.ftcdn.net/v2/jpg/01/33/61/27/1000_F_133612751_0LN7ow82feyf6NLQRPsr8r2BfzoYGhg6.jpg",
+        "capacity": "6",
+        "badroom": "2",
+        "bathroom": "1",
+        "kitchen": "available",
+        "price": "170"
+    },
+    {
+        "Cetagory": "Family Room",
+        "img": "https://as1.ftcdn.net/v2/jpg/02/27/07/46/1000_F_227074608_utWm84jeArtzww8obHgtONzKn3W8nhzY.jpg",
+        "capacity": "4",
+        "badroom": "2",
+        "bathroom": "1",
+        "kitchen": "available",
+        "price": "200"
+    },
+    {
+        "Cetagory": "Family Room",
+        "img": "https://as1.ftcdn.net/v2/jpg/02/76/51/18/1000_F_276511891_txvIUQ5rmcZIRfXn2bgEfWSlpyquuoHe.jpg",
+        "capacity": "4",
+        "badroom": "2",
+        "bathroom": "1",
+        "kitchen": "available",
+        "price": "160"
+    },
+    {
+        "Cetagory": "Family Room",
+        "img": "https://as1.ftcdn.net/v2/jpg/02/82/71/64/1000_F_282716482_cbB4Nj5ICpNTdW9Wbf4pfEL0gLun68PY.jpg ",
+        "capacity": "4",
+        "badroom": "2",
+        "bathroom": "1",
+        "kitchen": "available",
+        "price": "180"
+    }
+]

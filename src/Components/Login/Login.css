@@ -1,0 +1,57 @@
+#login-field{
+    width: 600px;
+    height: 600px;
+    margin:0 auto;
+    background-color: #f9f5e7;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+    border-radius: 10px;
+    margin-bottom: 150px !important;
+
+}
+
+@media  screen and (max-width:700px) {
+    #login-field{
+        width: 95%;
+        height: 540px;
+        margin:0 auto;
+        background-color: #f9f5e7;
+        box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+        border-radius: 10px;
+    
+    }
+}
+
+#login-title{
+    padding-top:60px;
+}
+
+input{
+    height: 65px !important;
+    font-size: 23px !important;
+}
+
+#form{
+    margin-top: 20px !important;
+}
+
+#form button{
+    background-color: #0887b1 !important;
+    width: 135px !important;
+    height: 45px !important;
+    font-weight: bold !important;
+}
+
+#form button:hover{
+    background-color:black !important;
+
+}
+
+#auth-login button{
+
+width: 35%!important;
+ 
+}
+#login-field hr{
+    width: 50%;
+    
+}
